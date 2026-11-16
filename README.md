@@ -1,16 +1,13 @@
-## Hi there 👋
+# Puchin Labs
 
-<!--
-**puchinlabs/puchinlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent experiments in **AI agents, developer tools, and native Apple apps**.
 
-Here are some ideas to get you started:
+## In the lab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI agents** — Exploring tool calling, stateful workflows, and how to evaluate whether an agent completed its task.
+- **Developer tools** — Prototyping CLI utilities and automations for codebase search and repetitive workflows.
+- **Apple platforms** — Exploring how to bring AI into native iOS and macOS interfaces with Swift and SwiftUI.
+
+这里会记录原型的设计取舍、运行方式，以及怎样复现实验结果。
+
+[Browse repositories](https://github.com/puchinlabs?tab=repositories)
